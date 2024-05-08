@@ -1,0 +1,14 @@
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\bin\Debug\MoodTracker1.exe.config
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\bin\Debug\MoodTracker1.exe
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\bin\Debug\MoodTracker1.pdb
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.csproj.AssemblyReference.cache
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.csproj.SuggestedBindingRedirects.cache
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.Form1.resources
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.Properties.Resources.resources
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.csproj.GenerateResource.cache
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.csproj.CoreCompileInputs.cache
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.csproj.CopyComplete
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.exe
+C:\Users\atbiw\source\repos\MoodTracker1\MoodTracker1\obj\Debug\MoodTracker1.pdb
